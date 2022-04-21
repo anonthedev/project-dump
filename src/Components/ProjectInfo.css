@@ -1,0 +1,24 @@
+.details-head {
+    margin-top: 50px;
+}
+
+.details-head h2{
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    font-size: 48px;
+}
+
+.details-desc{
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.details-desc p{
+    line-height: 1.3;
+    text-align: center;
+    font-size: 24px;
+    max-width: 60ch;
+}
